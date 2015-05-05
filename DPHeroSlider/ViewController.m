@@ -18,7 +18,7 @@
 
 @implementation ViewController
 
-//Working Branch Same Line Commit"
+//Working Branch Same Line Commit Test"
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //@Method		: viewDidLoad
 //@Abstract		: We can initialize and setup the slider component in viewDidLoad
