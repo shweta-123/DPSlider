@@ -18,7 +18,7 @@
 
 @implementation ViewController
 
-
+//Working Branch"
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //@Method		: viewDidLoad
 //@Abstract		: We can initialize and setup the slider component in viewDidLoad
