@@ -16,6 +16,7 @@
 @property(nonatomic,strong)NSMutableArray *dataArray;
 @end
 
+
 @implementation ViewController
 
 
@@ -29,6 +30,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //Add Stage
     // Do any additional setup after loading the view, typically from a nib.
     self.dataArray = [NSMutableArray array];
     [self populateSliderWithType:DPCustomSliderTypeImage];
