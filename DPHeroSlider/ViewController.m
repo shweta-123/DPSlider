@@ -36,6 +36,7 @@
     
 }
 
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //@Method		: populateSliderWithType:
 //@Abstract		: This method is used to customize Slider by setting public properties of Component
