@@ -43,7 +43,6 @@
 //@Returntype	: void
 //@Author		: Jitendra Mishra
 /////////////////////////////////////////////////////////////////////////////////////////////////
-
 -(void)populateSliderWithType:(DPCustomSliderType)sliderType{
     
     self.slideshow.delegate = self; //Setting the delegate of the slider component to self
