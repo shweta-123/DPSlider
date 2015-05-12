@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 #define SLIDE_SHOW_DELAY 2
-#define SLIDE_TRANSITION_DURATION .57
+#define SLIDE_TRANSITION_DURATION .555
 
 @interface ViewController ()
 @property (strong,nonatomic) IBOutlet DPCustomSlider * slideshow;
